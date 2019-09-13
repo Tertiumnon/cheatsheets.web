@@ -1,0 +1,35 @@
+{
+  "name": "ocs.cheetsheets",
+  "version": "0.1.0",
+  "devDependencies": {
+    "angular": "^1.6.1",
+    "angular-route": "^1.6.1",
+    "coffee-script": "~1.6.3",
+    "grunt": "^1.0.4",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-concat": "~1.0.1",
+    "grunt-contrib-cssmin": "~1.0.1",
+    "grunt-contrib-less": "^1.4.0",
+    "grunt-contrib-uglify": "~1.0.1",
+    "jquery": "~2.2.3",
+    "less": "~2.6.1",
+    "lite-server": "^2.3.0",
+    "materialize-css": "^0.98.2"
+  },
+  "description": "Smart cheatsheets for coders.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git://github.com/Tertiumnon/ocs.references.git",
+  "keywords": [
+    "references"
+  ],
+  "author": "Vit Tertiumnon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tertiumnon/ocs.references/issues"
+  },
+  "dependencies": {}
+}
