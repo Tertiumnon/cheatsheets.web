@@ -1,0 +1,9 @@
+<h2>Cheatsheets list</h2>
+
+<ul class="cheatsheets">
+  <li *ngFor="let cheatsheet of cheatsheets">
+    <div><span (click)="onTapProduct(cheatsheet.product)">{{cheatsheet.product}}</span></div>
+    <div>{{cheatsheet.description}}</div>
+    <div><pre>{{cheatsheet.code}}</pre></div>
+  </li>
+</ul>
