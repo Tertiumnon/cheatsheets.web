@@ -2,7 +2,7 @@
   "name": "ocs.cheetsheets",
   "version": "0.1.0",
   "devDependencies": {
-    "angular": "^1.6.1",
+    "angular": "^1.8.0",
     "angular-route": "^1.6.1",
     "coffee-script": "~1.6.3",
     "grunt": "^1.0.4",
